@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Prolab2_Pika:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a25d09f-566b-4a67-b038-48067e59340d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U7aoBFrQMVmikpjmxo4zDIrxON" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Oyun" />
+      <module name="Prolab2_Pika" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a25d09f-566b-4a67-b038-48067e59340d" name="Default Changelist" comment="" />
+      <created>1574710259472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574710259472</updated>
+      <workItem from="1574710263149" duration="12182000" />
+      <workItem from="1574726889765" duration="1251000" />
+      <workItem from="1574730673463" duration="7999000" />
+      <workItem from="1574738762562" duration="102000" />
+      <workItem from="1574791451754" duration="919000" />
+      <workItem from="1574796436755" duration="228000" />
+      <workItem from="1574812892283" duration="2344000" />
+      <workItem from="1574873277874" duration="706000" />
+      <workItem from="1574965804635" duration="15410000" />
+      <workItem from="1574990262174" duration="4302000" />
+      <workItem from="1574999202089" duration="607000" />
+      <workItem from="1575065489279" duration="3653000" />
+      <workItem from="1575069850993" duration="3287000" />
+      <workItem from="1575129126851" duration="212000" />
+      <workItem from="1575133042966" duration="807000" />
+      <workItem from="1575135498424" duration="2127000" />
+      <workItem from="1575145756853" duration="6557000" />
+      <workItem from="1575159768447" duration="1179000" />
+      <workItem from="1575161030598" duration="106000" />
+      <workItem from="1575161221435" duration="251000" />
+      <workItem from="1575161600951" duration="83000" />
+      <workItem from="1575161906705" duration="508000" />
+      <workItem from="1575162436242" duration="412000" />
+      <workItem from="1575203929515" duration="314000" />
+      <workItem from="1575214838958" duration="296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oyun.java</url>
+          <line>364</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Oyun.java</url>
+          <line>41</line>
+          <properties field="turSonuKartCek" class="Oyun" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BilgisayarOyuncusu.java</url>
+          <line>4</line>
+          <properties class="BilgisayarOyuncusu" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Prolab2_Pika___Kopya$Main.ic" NAME="Main Coverage Results" MODIFIED="1574990874716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

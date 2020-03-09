@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prolab2_Pika:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prolab2_Pika_jar</output-path>
+    <root id="archive" name="Prolab2_Pika.jar">
+      <element id="module-output" name="Prolab2_Pika" />
+    </root>
+  </artifact>
+</component>
