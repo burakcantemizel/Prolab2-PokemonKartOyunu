@@ -231,7 +231,7 @@
 	çizilmesini gerçekleştiriyor.</P>
 	<P LANG="tr-TR" CLASS="western"><BR><BR>
 	</P>
-	<P LANG="en-US" CLASS="western" STYLE="text-indent: 0in">   
+	<P ALIGN = CENTER LANG="en-US" CLASS="western" STYLE="text-indent: 0in">   
 	<IMG SRC="http://burakcantemizel.com/resimler/pok3.png" NAME="graphics1" ALIGN=CENTER BORDER=0></P>
 	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.17in; margin-bottom: 0.17in; line-height: 90%">
 	<FONT FACE="Symbol, serif"><FONT FACE="Times New Roman, serif"><I>Basit
@@ -358,14 +358,17 @@
 		https://gameprogrammingpatterns.com/game-loop.html</P>
 		<LI><P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 		https://docs.oracle.com/javase/tutorial/2d/images/loadimage.html</P>
-	</OL>
+			
 </DIV>
+<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
+	<IMG SRC="http://burakcantemizel.com/resimler/pok4.png" NAME="graphics4" ALIGN=BOTTOM  BORDER=0></P>
+	</OL>
 <DIV ID="Section4" DIR="LTR">
 	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
 	</P>
 
-	      
+	     
 </DIV>
 <DIV TYPE=FOOTER>
 
