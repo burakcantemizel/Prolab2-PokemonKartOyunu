@@ -321,7 +321,7 @@
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
 	</P>
-	<H1 LANG="en-US" CLASS="western">V.Deneysel sonuçlar</H1>
+	<H1 LANG="en-US" CLASS="western">V.Deneysel Sonuçlar</H1>
 	<P LANG="tr-TR" CLASS="western">Bu projeyle birlikte oyun
 	döngülerinin işleyişi, döngünün fiziksel hesaplara ve
 	etkileşimlere etkisi, kare hızının çizimlere etkisi gibi birçok
@@ -342,7 +342,7 @@
 	yapılarını kullandık ve uyguladık. Oyun mantığını
 	işletirken ArrayList veri yapısını çok çeşitli metotlarıyla
 	kullanma fırsatını bulduk.</P>
-	<H1 LANG="en-US" CLASS="western">VI.sonuç</H1>
+	<H1 LANG="en-US" CLASS="western">VI.Sonuç</H1>
 	<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
 	Bu projeyi gerçekleştirerek basit bir oynanışa sahip olsa da tam
 	olarak ortaya bir son ürün çıkartmayı başardık. Bir önceki
