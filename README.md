@@ -94,7 +94,7 @@
 	sahnesinde kullanıcı bilgisayara karşı oynuyorken,  bilgisayar -
 	bilgisayar sahnesinde  kullanıcı girişi olmuyor ve bilgisayar
 	nesneleri kendi kendilerine oyun döngüsünü ilerletiyorlar.</P>
-	<H1 LANG="en-US" CLASS="western">II.Yöntemler ve program mimarisi</H1>
+	<H1 LANG="en-US" CLASS="western">II.Yöntemler ve Program Mimarisi</H1>
 	<P LANG="en-US" CLASS="western">B<SPAN LANG="tr-TR">u kısımda
 	programın farklı özelliklerini oluşturmak için kullandığımız
 	araçlar ve yöntemler üzerinde durularak ayrıntılı olarak bilgi
@@ -290,15 +290,15 @@
 	<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-left: 0.2in; text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
 	</P>
-	<H1 LANG="en-US" CLASS="western">III.Geliştirme ortamı ve
-	kullanılan dil</H1>
+	<H1 LANG="en-US" CLASS="western">III.Geliştirme Ortamı ve
+	Kullanılan Dil</H1>
 	<P LANG="tr-TR" CLASS="western">Projeyi Java programlama dilinde
 	Windows işletim sistemi üzerinde gerçekleştirirken, geliştirme
 	ortamı olarak 11.0.2 JDK konfigürasyonlu Intellij Idea idesini
 	kullandık. Kaynak dosyaları Intellij Idea proje formatına
 	sahiptir.</P>
-	<H1 LANG="en-US" CLASS="western">IV.PROGRAMIN GENEL YAPISI VE
-	TASARIMI</H1>
+	<H1 LANG="en-US" CLASS="western">IV.Programın Genel Yapısı Ve
+	Tasarımı</H1>
 	<P CLASS="western" ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in; line-height: 100%">
 	Program temel olarak menü, kullanıcı – bilgisayar ve bilgisayar
 	– bilgisayar olmak üzere üç adet sahne içeriyor. Her sahne
