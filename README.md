@@ -14,9 +14,7 @@
 <BODY LANG="en-US" TEXT="#000000" LINK="#0000ff" DIR="LTR">
 <H1 ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in; line-height: 100%">
 <FONT SIZE=6>Programlama Laboratuvarı Pokemon Kart Oyunu</FONT></H1>
-<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in; line-height: 50%">
-<BR><BR>
-</P>
+
 <P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in; line-height: 50%">
 <BR><BR>
 </P>
@@ -234,7 +232,7 @@
 	<P LANG="tr-TR" CLASS="western"><BR><BR>
 	</P>
 	<P LANG="en-US" CLASS="western" STYLE="text-indent: 0in">   
-	<IMG SRC="ea9e4d2b2fc0dcee631daa726c723d9c_html_bd8b3886.png" NAME="graphics1" ALIGN=BOTTOM WIDTH=296 HEIGHT=113 BORDER=0></P>
+	<IMG SRC="http://burakcantemizel.com/resimler/pok3.png" NAME="graphics1" ALIGN=BOTTOM WIDTH=296 HEIGHT=113 BORDER=0></P>
 	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.17in; margin-bottom: 0.17in; line-height: 90%">
 	<FONT FACE="Symbol, serif"><FONT FACE="Times New Roman, serif"><I>Basit
 	Oyun Döngüsü Diyagramı</I></FONT></FONT></P>
@@ -312,13 +310,13 @@
 	<P CLASS="western" ALIGN=LEFT STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	.</P>
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<IMG SRC="ea9e4d2b2fc0dcee631daa726c723d9c_html_8d9ffb8e.png" NAME="graphics2" ALIGN=BOTTOM WIDTH=323 HEIGHT=204 BORDER=0><I>Oyun
+	<IMG SRC="http://burakcantemizel.com/resimler/pok1.png" NAME="graphics2" ALIGN=BOTTOM  BORDER=0><I>Oyun
 	Menüsünün Genel Tasarımı</I></P>
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
 	</P>
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<IMG SRC="ea9e4d2b2fc0dcee631daa726c723d9c_html_b05ffa6f.png" NAME="graphics3" ALIGN=BOTTOM WIDTH=324 HEIGHT=203 BORDER=0><I>Sunum
+	<IMG SRC="http://burakcantemizel.com/resimler/pok2.png" NAME="graphics3" ALIGN=BOTTOM  BORDER=0><I>Sunum
 	Modu Açık iken Oyun İçi Tasarım</I></P>
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
@@ -386,7 +384,6 @@
 	</P>
 	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	      
-	<IMG SRC="ea9e4d2b2fc0dcee631daa726c723d9c_html_d92c0d6.png" NAME="graphics4" WIDTH=643 HEIGHT=997 BORDER=0></P>
 </DIV>
 <DIV TYPE=FOOTER>
 	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.46in; margin-bottom: 0in; line-height: 100%">
