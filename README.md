@@ -232,7 +232,7 @@
 	<P LANG="tr-TR" CLASS="western"><BR><BR>
 	</P>
 	<P LANG="en-US" CLASS="western" STYLE="text-indent: 0in">   
-	<IMG SRC="http://burakcantemizel.com/resimler/pok3.png" NAME="graphics1" ALIGN=BOTTOM WIDTH=296 HEIGHT=113 BORDER=0></P>
+	<IMG SRC="http://burakcantemizel.com/resimler/pok3.png" NAME="graphics1" ALIGN=BOTTOM BORDER=0></P>
 	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.17in; margin-bottom: 0.17in; line-height: 90%">
 	<FONT FACE="Symbol, serif"><FONT FACE="Times New Roman, serif"><I>Basit
 	Oyun Döngüsü Diyagramı</I></FONT></FONT></P>
@@ -364,31 +364,11 @@
 	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
 	</P>
-	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
-	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
-	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
-	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
-	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
-	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
-	<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
+
 	      
 </DIV>
 <DIV TYPE=FOOTER>
-	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.46in; margin-bottom: 0in; line-height: 100%">
-	<BR>
-	</P>
+
 </DIV>
 </BODY>
 </HTML>
